@@ -3,6 +3,7 @@ The SRC for the Intent Store 1.8 Hacked Client Coding Tutorial series.
 
 ## Set up:
 1. Download the zip of this respiratory
+
 ![image](https://user-images.githubusercontent.com/127635278/230487846-9cba1a82-bee6-4aa3-a53f-9732e31b0887.png)
 2. Download Eclipse IDE @ bit.ly/3UnIWVt
 3. Download Java JDK/JRE (if you haven't alread) @ bit.ly/3zAz9Sv
