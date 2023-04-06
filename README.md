@@ -6,13 +6,13 @@ The SRC for the Intent Store 1.8 Hacked Client Coding Tutorial series.
 
 ![image](https://user-images.githubusercontent.com/127635278/230487846-9cba1a82-bee6-4aa3-a53f-9732e31b0887.png)
 
-2. Download Eclipse IDE @ bit.ly/3UnIWVt
+2. Download Eclipse IDE @ https://bit.ly/3UnIWVt
 
 3. Download Java JDK/JRE (if you haven't already, create an account) @ bit.ly/3zAz9Sv
 
-ALTERNATIVE LINK: bit.ly/412fiHo
+ALTERNATIVE LINK: https://bit.ly/412fiHo
 
-4. Download Mod Coder Pack @ bit.ly/3nTFDt1, click "Continue to Optifine Sources 🠞"
+4. Download Mod Coder Pack @ https://bit.ly/3nTFDt1, click "Continue to Optifine Sources 🠞"
 
 5. Once those files are downloaded, create a new file (recommended to put it on your Desktop or Documents)
 
