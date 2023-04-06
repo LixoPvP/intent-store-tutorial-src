@@ -1,6 +1,10 @@
 # Intent Store Tutorial Client source code
 The SRC for the Intent Store 1.8 Hacked Client Coding Tutorial series.
 
+## Preview:
+![2023-04-06_16 15 59](https://user-images.githubusercontent.com/127635278/230485140-52c3996e-7100-4f49-b204-7fad7dd94c60.png)
+![2023-04-06_16 15 27](https://user-images.githubusercontent.com/127635278/230485169-0aff252c-c1f5-4321-ad7a-d3c7ad99f8f1.png)
+
 ## Set up:
 1. Download the zip of this respiratory
 
@@ -28,14 +32,8 @@ ALTERNATIVE LINK: https://bit.ly/412fiHo
 
 Once the game is on the main menu, not the loading screen, you can close it.
 
-8. Copy all of the contents of the "mcp910.zip" and paste them into the file you just created
+7. Copy all of the contents of the "mcp910.zip" and paste them into the file you just created
 
-9. Once it is done copying, run the "decompile.bat", this may take up to 20 minutes to finish
+8. Once it is done copying, run the "decompile.bat", this may take up to 20 minutes to finish
 
-10. Once it finished (this means it says something like "Press any key to continue", open the "src" folder, then open the "minecraft" folder
-
-11. 
-
-## Preview:
-![2023-04-06_16 15 59](https://user-images.githubusercontent.com/127635278/230485140-52c3996e-7100-4f49-b204-7fad7dd94c60.png)
-![2023-04-06_16 15 27](https://user-images.githubusercontent.com/127635278/230485169-0aff252c-c1f5-4321-ad7a-d3c7ad99f8f1.png)
+9. Once it finished (this means it says something like "Press any key to continue", open the "src" folder, then open the "minecraft" folder
