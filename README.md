@@ -38,5 +38,11 @@ Once the game is on the main menu, not the loading screen, you can close it.
 ![Screenshot 2023-04-06 215841](https://user-images.githubusercontent.com/127635278/230525189-4903e4ec-666b-4e4e-9f4e-c3f63039f1cd.png)
 
 8. Once it is done copying, run the "decompile.bat", this may take up to 20 minutes to finish
+ 
+![Screenshot 2023-04-06 215946](https://user-images.githubusercontent.com/127635278/230525616-bfb4b86f-6cd7-4a2d-a1d5-b51998bac69f.png)
 
 9. Once it finished (this means it says something like "Press any key to continue", open the "src" folder, then open the "minecraft" folder
+
+![Screenshot 2023-04-06 220919](https://user-images.githubusercontent.com/127635278/230526469-0b049f9a-c54d-4367-83bf-ccd3771657e8.png)
+
+10. insert later
