@@ -1,6 +1,9 @@
 # Intent Store Tutorial Client source code
 The SRC for the Intent Store 1.8 Hacked Client Coding Tutorial series.
 
+## DISCLAIMER
+This code is not made by me, all credits go to the creators of Mod Coder Pack, Hexeption @ Optifine Sources, OptiFine, and Nefarious @ intent.store.
+
 ## Preview:
 ![2023-04-06_16 15 59](https://user-images.githubusercontent.com/127635278/230485140-52c3996e-7100-4f49-b204-7fad7dd94c60.png)
 ![2023-04-06_16 15 27](https://user-images.githubusercontent.com/127635278/230499368-282f438a-42c1-42e9-be0d-59eaf13cc343.png)
