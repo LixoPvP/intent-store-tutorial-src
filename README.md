@@ -44,5 +44,25 @@ Once the game is on the main menu, not the loading screen, you can close it.
 9. Once it finished (this means it says something like "Press any key to continue", open the "src" folder, then open the "minecraft" folder
 
 ![Screenshot 2023-04-06 220919](https://user-images.githubusercontent.com/127635278/230526469-0b049f9a-c54d-4367-83bf-ccd3771657e8.png)
+![Screenshot 2023-04-06 221231](https://user-images.githubusercontent.com/127635278/230526798-4c114ab3-431b-420d-8dab-1702e24c9c61.png)
 
-10. insert later
+10. Open your "Opifine SRC Version [1.8 HD U H6].rar file and delete the contents of the "src\minecraft" folder, then copy and paste the optifine src file into it
+
+![Screenshot 2023-04-06 221552](https://user-images.githubusercontent.com/127635278/230527183-6b4bd2db-5dda-4dfb-8a91-e88ac76277a4.png)
+![Screenshot 2023-04-06 221552](https://user-images.githubusercontent.com/127635278/230527302-c1a89409-2c0e-49ff-85ee-7a116b308ddc.png)
+![Screenshot 2023-04-06 221642](https://user-images.githubusercontent.com/127635278/230527305-74f55f23-6dce-45c7-90c5-633de46872c9.png)
+
+11. Go back to the file you created earlier, go to "eclipse", then copy the file path
+
+![Screenshot 2023-04-06 221832](https://user-images.githubusercontent.com/127635278/230527514-8fa84fc6-c751-427c-b689-67d37274c283.png)
+
+12. Go into Eclipse IDE and paste in the file path, then click "Launch"
+
+13. You may see some errors, first right-click the "Server" project and click "Close Project"
+
+![Screenshot 2023-04-06 222145](https://user-images.githubusercontent.com/127635278/230527860-8ab84144-7236-4333-86e9-39a87f2ac576.png)
+
+14. Right-click the "Client" project, then click "Build Path", then "Configure Build Path"
+
+![Screenshot 2023-04-06 222324](https://user-images.githubusercontent.com/127635278/230528046-85e4dbb0-9485-4428-9b82-9816e02ea897.png)
+
