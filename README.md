@@ -12,7 +12,7 @@ The SRC for the Intent Store 1.8 Hacked Client Coding Tutorial series.
 
 ![image](https://user-images.githubusercontent.com/127635278/230487846-9cba1a82-bee6-4aa3-a53f-9732e31b0887.png)
 
-2. Download Eclipse IDE @ https://bit.ly/3UnIWVt
+2. Download Eclipse IDE (for Java Developers) @ https://bit.ly/3UnIWVt
 
 3. Download Java JDK/JRE (if you haven't already, create an account) @ https://bit.ly/3zAz9Sv
 
@@ -35,6 +35,7 @@ ALTERNATIVE LINK: https://bit.ly/412fiHo
 Once the game is on the main menu, not the loading screen, you can close it.
 
 7. Copy all of the contents of the "mcp910.zip" and paste them into the file you just created
+![Screenshot 2023-04-06 215841](https://user-images.githubusercontent.com/127635278/230525189-4903e4ec-666b-4e4e-9f4e-c3f63039f1cd.png)
 
 8. Once it is done copying, run the "decompile.bat", this may take up to 20 minutes to finish
 
